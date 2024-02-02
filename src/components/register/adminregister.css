@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.register1{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    background-color: white;
+    border: 1px solid gray;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgb(27, 96, 131);
+    box-shadow: 1px 2px 3px black;
+    padding-top: 10px;
+    margin-left:70px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+}
+.register1 h1{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.register1 select{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.register1 input{
+    padding: 10px;
+    padding: 15px;   
+    padding-right: 250px;
+    text-decoration: none;
+}
+.register1 textarea{
+    padding-left :158px;
+    padding-right:158px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ .register1 .registerbutton{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 4px 4px 4px rgb(9, 3, 73);
+    border-radius: 5px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.register1 .registerbutton:hover {
+    background-color: rgb(21, 32, 101);
+    }

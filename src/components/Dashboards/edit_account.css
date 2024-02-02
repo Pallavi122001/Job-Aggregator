@@ -1,0 +1,26 @@
+.small-container2{
+    padding-top: 7px;
+    text-align: center;
+    background-color: #00aaff;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 2px 2px rgb(44, 42, 42);
+}
+.small-container2 h1{
+    text-align: center;
+    color:blue;
+}
+.small-container2 input{
+    padding: 10px;
+    font-size:15px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+}
+.small-container2 label{
+    font-size: 25px;
+  font-weight: bold;
+padding-right:25px;
+color:black;
+}

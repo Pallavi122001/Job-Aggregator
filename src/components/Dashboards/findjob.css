@@ -1,0 +1,22 @@
+.find_job{
+   background-color:#002244;
+   margin-top: 0px;
+   padding-right:170px;
+   padding-left: 180px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   box-shadow: 2px 2px 2px black;
+   font-family: cursive;
+   color:aliceblue
+}
+.find_job label{
+    font-size: 20px;
+}
+.findjobbtn{
+    font-size: 15px;
+    padding: 10px;
+    margin-left:15px ;
+}
+.jobpost_container{
+    margin-top: 0%;
+}

@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(-225deg, #34b5d5 0%, #B9B6E5 100%);
+    text-align: center;
+    margin-top: 200px;
+}
+input{
+    padding: 15px;
+    padding-right: 80px;
+}
+#btn1{
+    background-color: #0f2360;
+    border:none;
+    font-size: 16px; 
+    border-radius:10px; 
+    padding:18px;
+    min-height:40px; 
+    min-width: 140px;
+    font-family:serif;
+    color:aliceblue
+  }
+  #btn1:focus {
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px  rgb(10, 10, 10) ;
+    transition: 0.7s;
+}
+#btn1:hover{
+    font-weight:bolder;
+    font-size: 20px;
+}
+form{
+    background-color: rgb(52, 108, 213);
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 10px;
+    box-shadow:1px 1px 1px 1px black;
+}
+

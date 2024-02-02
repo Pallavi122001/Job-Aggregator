@@ -1,0 +1,62 @@
+.change-password{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    background-color: white;
+    border: 1px solid gray;
+    padding-left: 120px;
+    padding-right:150px;
+    background-color: rgb(11, 123, 174);
+    box-shadow: 1px 2px 3px black;
+    margin-top: 110px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.change-password label{
+  color:#fff;
+  text-align: left;
+  font-size: larger;
+  font-weight: 600;
+}
+.change-password h1{
+    font-family:cursive;
+    font-size: 25px;
+    color:rgb(238, 238, 247);
+}
+.change-password input{
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-right: 150px;
+    padding-left: 15px;
+    border-radius: 8px;
+}
+.custom-button {
+    background-color: #042546; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 8px 16px; /* Padding for spacing */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Cursor style on hover (pointer) */
+    display: flex;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  
+  .custom-button:hover {
+    background-color: #0a0a0a; /* Darker blue on hover */
+  }
+  .changediv{
+    display: flex;
+  }
+  .custom-button-cancel{
+    background-color: #082541; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 8px 16px; /* Padding for spacing */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer; /* Cursor style on hover (pointer) */
+    display: flex;
+    margin-right: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+  

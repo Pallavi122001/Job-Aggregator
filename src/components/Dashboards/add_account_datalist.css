@@ -1,0 +1,52 @@
+.addAccounttable{
+    font-size:15px;
+    color:rgb(16, 16, 16);
+    table-layout: fixed;
+    overflow: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+.addAccounttable thead{
+position: -webkit-sticky; /* For Safari */
+position: sticky;
+top: 0;
+}
+.addAccounttable th{
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color:#006680;
+    color:white;
+    margin: 0%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0%;
+    border: 1px solid black;
+font-size: 15px;
+position: -webkit-sticky; /* For Safari */
+position: sticky;
+top: 0;
+}
+.addAccounttable td{
+    padding:auto;
+    border:none;
+    padding-bottom: 10px;
+    padding-right: 7px;
+}
+.Edit-button1{
+    background-color:#1aa7e8;
+    border:none;
+    font-size:20px;
+    padding: 7px;
+    
+}
+.Delete-button1{
+    background-color: #ea7676;
+    border:none;
+    font-size: 20px;
+    padding: 7px;
+
+}
+.edit-delete-button{
+    display: inline;
+    margin-top:10px ;
+}

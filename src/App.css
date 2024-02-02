@@ -1,0 +1,18 @@
+/* Define your default styles for larger screens (e.g., laptops) */
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+@media (max-width: 768px) {
+    .App {
+      height: auto;
+    }
+  
+    main {
+      width: 100%;
+    }
+  }

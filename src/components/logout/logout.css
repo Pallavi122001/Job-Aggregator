@@ -1,0 +1,12 @@
+.logout{
+    align-items: center;
+    background: linear-gradient(-225deg, #053c4a 0%, #554be9 100%);
+    font-size:30px ;
+    cursor: pointer;
+    padding:20px;
+    font-family: cursive;
+    color:aliceblue;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 300px;
+}

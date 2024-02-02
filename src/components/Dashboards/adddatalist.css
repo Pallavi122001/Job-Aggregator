@@ -1,0 +1,50 @@
+.AddApplicant{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 500px;
+    padding-left: 500px;
+    background-color: #006680;
+    color:#f0f0f4;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+.AddApplicant:hover{
+    background-color: rgb(4, 40, 41);
+}
+.addjobSeekertable{
+    font-size:20px;
+    color:rgb(16, 16, 16);
+    margin-left: 0%;
+}
+.addjobSeekertable th{
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color:#006680;
+    padding:12px;
+    color:white;
+    margin: 0%;
+}
+.addjobSeekertable td{
+    padding:15px;
+}
+.Edit-button{
+    background-color:#3483a8;
+    border:none;
+    font-size:20px;
+    padding: 10px;
+}
+.Delete-button{
+    background-color: #e35757;
+    border:none;
+    font-size: 20px;
+    padding: 10px;
+
+}
+.edit-delete-button{
+    display: inline;
+    margin-top:10px ;
+}
